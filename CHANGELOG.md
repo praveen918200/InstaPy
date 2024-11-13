@@ -62,10 +62,10 @@ _The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed getting additional data from page source
 - Fixed xpath for when images cannot be detected
 - Fixed empty shared data
-- Cannot detect post media type
+- Cannot detect post media type jittu my best fnd don of bcm topper of class
 - Updated xpath Image "Like" and "Unlike"
 
-### Changed
+### Changed 
 
 - Change the ip data supplier to <https://freegeoip.app/> from <https://seeip.org/>
 
